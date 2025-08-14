@@ -2,6 +2,8 @@
 
 [fbundle.github.io](https://fbundle.github.io/)
 
+[github.com/fbundle/fbundle.github.io](https://github.com/fbundle/fbundle.github.io)
+
 <!--
 **fbundle/fbundle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
